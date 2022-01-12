@@ -31,7 +31,6 @@
         <li><a href="https://www.who.int/">Visit WHO</a></li>
         <li><a href="prec.php">Precautions</a></li>
         <li><a href="symptom.php">symptoms</a></li>
-        <li><a href="feedback/index.php">feedback</a></li>
     </ul>
 </nav>
 <br><br>
